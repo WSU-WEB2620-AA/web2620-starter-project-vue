@@ -1,5 +1,5 @@
 # Starter Project
-A starter project powered by Vite.
+A starter project powered by Vite that supports Sass, Bootstrap, and Vue.
 
 ## Instructions
 After you clone (download) this repository from GitHub, run the following command to install the required NPM packages. You only need to do this once.
